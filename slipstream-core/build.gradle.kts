@@ -8,7 +8,6 @@ plugins {
 }
 
 group = "net.apogee.slipstream"
-version = "1.2.1"
 
 repositories {
     mavenCentral()
